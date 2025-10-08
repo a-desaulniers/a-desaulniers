@@ -1,16 +1,18 @@
-## Hi there 👋
+# Alexandre DesAulniers: Dalhousie ECE | Hardware & Networks ⚙️🔌
 
-<!--
-**a-desaulniers/a-desaulniers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Eng. **Electrical and Electronics Engineering** Student at Dalhousie University (expected April 2028).
 
-Here are some ideas to get you started:
+## Core Technical Expertise 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Low-Level & Embedded:** Experience with **AVR Assembly** for microcontrollers, **C/C++** (including data structures), and **BASH**.
+* **Networking & Infrastructure:** Deep knowledge of **IP networking**, **NAT routing**, **VLAN networking** design, and **Server** administration (**UNIX/Linux management**).
+* **Design & Simulation:** Experience in **SOLIDWORKS**, **LT/PSpice**, **KICAD** (PCB design), and fluid dynamics simulation (**EPANET**).
+* **System Tools:** Experienced with **Microsoft Active Directory/LDAP**,**systemd**, **PAM**, **AWS EC2**, and analysis of electrical **SLD's**.
+
+---
+
+## Connect 🌐
+
+* **Website:** [reseau.cabot.place](reseau.cabot.place)
+* **Email:** a@desau.ca
+* 
