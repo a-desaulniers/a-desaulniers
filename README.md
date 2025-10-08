@@ -1,4 +1,4 @@
-# Alexandre DesAulniers: Dalhousie ECE | Hardware & Networks ⚙️🔌
+# Alexandre DesAulniers: — Dalhousie ECE ⚙️🔌
 
 B.Eng. **Electrical and Electronics Engineering** Student at Dalhousie University (expected April 2028).
 
