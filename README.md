@@ -1,18 +1,27 @@
 # Alexandre DesAulniers: — Dalhousie ECE ⚙️🔌
 
-B.Eng. **Electrical and Electronics Engineering** Student at Dalhousie University (expected April 2028).
+**B.Eng. Electrical and Electronics Engineering** Student | Expected April 2028.
 
-## Core Technical Expertise 💻
+## Technical Expertise 🛠️
 
-* **Low-Level & Embedded:** Experience with **AVR Assembly** for microcontrollers, **C/C++** (including data structures), and **BASH**.
-* **Networking & Infrastructure:** Deep knowledge of **IP networking**, **NAT routing**, **VLAN networking** design, and **Server** administration (**UNIX/Linux management**).
-* **Design & Simulation:** Experience in **SOLIDWORKS**, **LT/PSpice**, **KICAD** (PCB design), and fluid dynamics simulation (**EPANET**).
-* **System Tools:** Experienced with **Microsoft Active Directory/LDAP**,**systemd**, **PAM**, **AWS EC2**, and analysis of electrical **SLD's**.
+### Low-Level & Design
+* **Assembly:** AVR Assembly
+* **C/C++** (w/ Data Structures)
+* **PCB/EDA:** KICAD, LT/PSpice
+* **CAD:** SOLIDWORKS
+
+### Networks & Systems
+* **Networking:** IP, NAT Routing, VLAN Design
+* **Servers/OS:** UNIX/Linux Mgmt, BASH, systemd, PAM
+* **Cloud/Tools:** AWS EC2, Microsoft Active Directory/LDAP
+* **Analysis:** Electrical SLD's, EPANET (Fluid Sim)
 
 ---
 
 ## Connect 🌐
 
-* **Website:** [reseau.cabot.place](https://reseau.cabot.place)
-* **LinkedIn:** [me/alex_desau](https://www.linkedin.com/in/alex-desau)
-* **Email:** [a@desau.ca](mailto://a@desau.ca)
+| Platform | Link |
+| :--- | :--- |
+| **Website** | [reseau.cabot.place](https://reseau.cabot.place) |
+| **LinkedIn** | [me/alex\_desau](https://www.linkedin.com/in/alex-desau) |
+| **Email** | [a@desau.ca](mailto:a@desau.ca) |
