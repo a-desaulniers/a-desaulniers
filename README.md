@@ -14,5 +14,5 @@ B.Eng. **Electrical and Electronics Engineering** Student at Dalhousie Universit
 ## Connect 🌐
 
 * **Website:** [reseau.cabot.place](reseau.cabot.place)
+* **LinkedIn** [me/alex_desau](https://www.linkedin.com/in/alex-desau)
 * **Email:** a@desau.ca
-* 
