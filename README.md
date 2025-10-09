@@ -27,4 +27,6 @@
 | **Email** | [a@desau.ca](mailto:a@desau.ca) |
 
 
-<p style="font-weight: bold; text-align: center;">🄸 ❤️ 🄾🅂🅂</p>
+<p align="center">
+🄸 ❤️ 🄾🅂🅂
+</p>
