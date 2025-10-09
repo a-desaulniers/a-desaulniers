@@ -26,6 +26,5 @@
 | **LinkedIn** | [me/alex\_desau](https://www.linkedin.com/in/alex-desau) |
 | **Email** | [a@desau.ca](mailto:a@desau.ca) |
 
-<p align="center">
-**🄸 ❤️ 🄾🅂🅂**
-</p>
+
+<p style="font-weight: bold; text-align: center;">🄸 ❤️ 🄾🅂🅂</p>
