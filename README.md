@@ -1,8 +1,6 @@
-# Alexandre DesAulniers: — Dalhousie ECE ⚙️🔌
+# Alexandre DesAulniers: — Dalhousie ECE ⚙️
 
 **B.Eng. Electrical and Electronics Engineering** Student | Expected April 2028.
-
-## Technical Expertise 🛠️
 
 ### Low-Level & Design
 * **Assembly:** AVR Assembly
@@ -27,6 +25,4 @@
 | **Email** | [a@desau.ca](mailto:a@desau.ca) |
 
 
-<p align="center">
-🄸 ❤️ 🄾🅂🅂
-</p>
+
