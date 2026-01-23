@@ -1,6 +1,6 @@
 # Alexandre DesAulniers: — Dalhousie ECE ⚙️
 
-**B.Eng. Electrical and Electronics Engineering** | Expected April 2028.
+**B.Eng. Electrical and Electronics Engineering**
 
 ### Low-Level & Design
 * **Assembly:** AVR Assembly
