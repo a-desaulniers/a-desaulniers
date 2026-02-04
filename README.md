@@ -6,7 +6,7 @@
 * **Assembly:** AVR Assembly
 * **C/C++** (w/ Data Structures)
 * **PCB/EDA:** KICAD, LT/PSpice
-* **CAD:** SOLIDWORKS
+* **CAD:** FreeCAD & SOLIDWORKS
 
 ### Networks & Systems
 * **Networking:** IP, NAT Routing, VLAN Design
