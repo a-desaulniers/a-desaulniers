@@ -1,7 +1,5 @@
 ---
 
-## Connect 🌐
-
 | Platform | Link |
 | :--- | :--- |
 | **Website** | [reseau.cabot.place](https://reseau.cabot.place) |
